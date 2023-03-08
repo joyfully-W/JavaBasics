@@ -1,4 +1,4 @@
-package cn.joyfully.AbstractLearn;
+package cn.joyfully.base.AbstractLearn;
 
 public class Cat extends Animal {
 

@@ -1,4 +1,4 @@
-package cn.joyfully.AbstractLearn;
+package cn.joyfully.base.AbstractLearn;
 
 public class AbstractMain {
     public static void main(String[] args) {
