@@ -1,4 +1,4 @@
-package cn.joyfully.base.BigDecimalAndBigInteger;
+package cn.joyfully.base.bigDecimalAndBigInteger;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
