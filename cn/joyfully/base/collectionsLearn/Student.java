@@ -1,4 +1,4 @@
-package com.joyfully.CollectionsLearn;
+package cn.joyfully.base.collectionsLearn;
 
 public class Student {
     private String name;

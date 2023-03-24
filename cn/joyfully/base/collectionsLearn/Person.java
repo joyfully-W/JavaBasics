@@ -1,6 +1,7 @@
-package com.joyfully.CollectionsLearn;
+package cn.joyfully.base.collectionsLearn;
+
 //实现这个类 就是为了实现  public int compareTo(T o); 这个方法
-public class Person implements Comparable<Person>{
+public class Person implements Comparable<Person> {
     private String name;
     private int age;
 
@@ -45,3 +46,4 @@ public class Person implements Comparable<Person>{
         return o.getAge() - this.getAge();//年龄升序排序
     }
 }
+
