@@ -1,4 +1,4 @@
-package com.joyfully.GenericLearn;
+package cn.joyfully.base.genericLearn;
 /*
     定义含有泛型的接口
  */

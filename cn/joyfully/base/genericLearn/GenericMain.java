@@ -1,4 +1,4 @@
-package com.joyfully.GenericLearn;
+package cn.joyfully.base.genericLearn;
 
 import java.util.ArrayList;
 import java.util.Iterator;
